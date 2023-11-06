@@ -1,13 +1,12 @@
 {
-  "name": "georgia-restaurant",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "node-sass -o css scss/main.scss -w"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+	"name": "georgia-restaurant",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"watch": "node-sass -o css scss -w"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
 }
