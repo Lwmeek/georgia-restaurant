@@ -17,6 +17,7 @@
 		@include centering(50%);
 	}
 }
+
 .about-us {
 	height: 90vh;
 	display: flex;
@@ -62,5 +63,12 @@
 				padding-left: 50px;
 			}
 		}
+	}
+}
+
+.gallery {
+	.cards-wrapper {
+		display: flex;
+		flex-wrap: wrap;
 	}
 }
